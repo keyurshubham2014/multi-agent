@@ -1,0 +1,121 @@
+{
+  "dailyScores": [
+    {
+      "date": "2024-01-15",
+      "score": 7.2,
+      "dominantEmotion": "joy",
+      "insight": "your mood lifted significantly today. talking through challenges seems to help you find clarity.",
+      "emotionBreakdown": {
+        "joy": 35,
+        "calm": 30,
+        "stress": 20,
+        "sadness": 5,
+        "anxiety": 10
+      }
+    },
+    {
+      "date": "2024-01-14",
+      "score": 5.4,
+      "dominantEmotion": "anxiety",
+      "insight": "uncertainty about work changes brought some anxiety. remember, it's okay to not have all the answers.",
+      "emotionBreakdown": {
+        "joy": 10,
+        "calm": 15,
+        "stress": 25,
+        "sadness": 15,
+        "anxiety": 35
+      }
+    },
+    {
+      "date": "2024-01-13",
+      "score": 8.1,
+      "dominantEmotion": "calm",
+      "insight": "weekends with friends really boost your wellbeing. prioritizing these connections is valuable.",
+      "emotionBreakdown": {
+        "joy": 30,
+        "calm": 45,
+        "stress": 5,
+        "sadness": 10,
+        "anxiety": 10
+      }
+    },
+    {
+      "date": "2024-01-12",
+      "score": 5.8,
+      "dominantEmotion": "sadness",
+      "insight": "missing loved ones is part of caring deeply. your ability to reflect on this is a strength.",
+      "emotionBreakdown": {
+        "joy": 10,
+        "calm": 20,
+        "stress": 10,
+        "sadness": 40,
+        "anxiety": 20
+      }
+    },
+    {
+      "date": "2024-01-11",
+      "score": 8.5,
+      "dominantEmotion": "joy",
+      "insight": "goal-setting energizes you! your enthusiasm for learning is inspiring.",
+      "emotionBreakdown": {
+        "joy": 45,
+        "calm": 25,
+        "stress": 15,
+        "sadness": 5,
+        "anxiety": 10
+      }
+    },
+    {
+      "date": "2024-01-10",
+      "score": 4.2,
+      "dominantEmotion": "stress",
+      "insight": "work frustrations can be draining. you're learning to set boundaries - that takes courage.",
+      "emotionBreakdown": {
+        "joy": 5,
+        "calm": 15,
+        "stress": 45,
+        "sadness": 15,
+        "anxiety": 20
+      }
+    },
+    {
+      "date": "2024-01-09",
+      "score": 7.5,
+      "dominantEmotion": "calm",
+      "insight": "celebrating small wins creates positive momentum. keep acknowledging your progress!",
+      "emotionBreakdown": {
+        "joy": 25,
+        "calm": 40,
+        "stress": 15,
+        "sadness": 10,
+        "anxiety": 10
+      }
+    }
+  ],
+  "weeklyTrend": {
+    "dates": ["Jan 9", "Jan 10", "Jan 11", "Jan 12", "Jan 13", "Jan 14", "Jan 15"],
+    "scores": [7.5, 4.2, 8.5, 5.8, 8.1, 5.4, 7.2],
+    "averageScore": 6.7,
+    "trend": "stable"
+  },
+  "insights": [
+    {
+      "id": "insight-1",
+      "title": "social connections boost your mood",
+      "description": "your happiest days this week involved time with friends. consider scheduling more social activities.",
+      "type": "observation"
+    },
+    {
+      "id": "insight-2",
+      "title": "work stress patterns",
+      "description": "mid-week tends to bring more stress. maybe try a calming activity on wednesdays?",
+      "type": "tip"
+    },
+    {
+      "id": "insight-3",
+      "title": "you're showing up for yourself",
+      "description": "checking in daily is a form of self-care. i'm proud of your consistency this week.",
+      "type": "encouragement"
+    }
+  ]
+}

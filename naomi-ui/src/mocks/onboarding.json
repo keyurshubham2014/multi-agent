@@ -1,0 +1,105 @@
+{
+  "steps": [
+    {
+      "id": 1,
+      "title": "welcome to naomi",
+      "description": "i'm here to be your emotional companion. let's get to know each other a little better.",
+      "type": "welcome"
+    },
+    {
+      "id": 2,
+      "title": "what should i call you?",
+      "description": "i'd love to know your name so our conversations feel more personal.",
+      "type": "input",
+      "placeholder": "Your name"
+    },
+    {
+      "id": 3,
+      "title": "what brings you here?",
+      "description": "select all that resonate with you. this helps me understand how i can best support you.",
+      "type": "multi-select",
+      "options": [
+        "Managing stress",
+        "Understanding my emotions",
+        "Building better habits",
+        "Improving relationships",
+        "Finding more joy",
+        "Processing difficult feelings",
+        "General self-improvement",
+        "Just curious!"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "how are you feeling right now?",
+      "description": "there's no wrong answer. just check in with yourself.",
+      "type": "select",
+      "options": [
+        "Joy - feeling good!",
+        "Calm - peaceful and centered",
+        "Stress - a bit overwhelmed",
+        "Sadness - feeling down",
+        "Anxiety - worried or uneasy"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "what interests you?",
+      "description": "these help me personalize our conversations and insights.",
+      "type": "multi-select",
+      "options": [
+        "Work & career",
+        "Relationships",
+        "Health & wellness",
+        "Creativity",
+        "Personal growth",
+        "Family",
+        "Mindfulness",
+        "Life transitions"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "when do you prefer to chat?",
+      "description": "i can send you gentle reminders to check in.",
+      "type": "select",
+      "options": [
+        "Morning (6am - 12pm)",
+        "Afternoon (12pm - 6pm)",
+        "Evening (6pm - 10pm)",
+        "Night (10pm - 6am)",
+        "No preference"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "how often would you like to connect?",
+      "description": "we can always adjust this later.",
+      "type": "select",
+      "options": [
+        "Daily - I want to build a habit",
+        "A few times a week",
+        "Weekly check-ins",
+        "When I feel like it"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "your privacy matters",
+      "description": "everything you share with me stays private. your conversations are encrypted and never shared. you're always in control of your data.",
+      "type": "welcome"
+    },
+    {
+      "id": 9,
+      "title": "one more thing",
+      "description": "i communicate in lowercase – it's just my style. it helps our chats feel more like talking to a friend than reading a textbook.",
+      "type": "welcome"
+    },
+    {
+      "id": 10,
+      "title": "you're all set!",
+      "description": "i'm excited to get to know you better. remember, i'm here whenever you need someone to talk to.",
+      "type": "complete"
+    }
+  ]
+}
