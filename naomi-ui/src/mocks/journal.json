@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "id": "entry-1",
+      "date": "2024-01-15",
+      "emoji": "🌟",
+      "title": "a breakthrough moment",
+      "dominantEmotion": "joy",
+      "summary": "you had a productive conversation about work stress and found clarity on how to approach your presentation. recognizing your team's achievements brought genuine pride.",
+      "topics": ["work", "productivity", "self-reflection"],
+      "emotionBreakdown": {
+        "joy": 35,
+        "calm": 30,
+        "stress": 20,
+        "sadness": 5,
+        "anxiety": 10
+      }
+    },
+    {
+      "id": "entry-2",
+      "date": "2024-01-14",
+      "emoji": "🌊",
+      "title": "navigating uncertainty",
+      "dominantEmotion": "anxiety",
+      "summary": "you shared concerns about upcoming changes at work. we explored ways to find stability within change.",
+      "topics": ["work", "change", "uncertainty"],
+      "emotionBreakdown": {
+        "joy": 10,
+        "calm": 15,
+        "stress": 25,
+        "sadness": 15,
+        "anxiety": 35
+      }
+    },
+    {
+      "id": "entry-3",
+      "date": "2024-01-13",
+      "emoji": "☀️",
+      "title": "peaceful saturday",
+      "dominantEmotion": "calm",
+      "summary": "a relaxing weekend day. you mentioned enjoying time with friends and feeling grateful for simple moments.",
+      "topics": ["friends", "relaxation", "gratitude"],
+      "emotionBreakdown": {
+        "joy": 30,
+        "calm": 45,
+        "stress": 5,
+        "sadness": 10,
+        "anxiety": 10
+      }
+    },
+    {
+      "id": "entry-4",
+      "date": "2024-01-12",
+      "emoji": "💭",
+      "title": "reflecting on relationships",
+      "dominantEmotion": "sadness",
+      "summary": "you opened up about missing a close friend who moved away. we talked about maintaining long-distance friendships.",
+      "topics": ["friendship", "missing someone", "connection"],
+      "emotionBreakdown": {
+        "joy": 10,
+        "calm": 20,
+        "stress": 10,
+        "sadness": 40,
+        "anxiety": 20
+      }
+    },
+    {
+      "id": "entry-5",
+      "date": "2024-01-11",
+      "emoji": "🎯",
+      "title": "goal setting energy",
+      "dominantEmotion": "joy",
+      "summary": "an energizing conversation about your goals for the year. you're feeling motivated about learning new skills.",
+      "topics": ["goals", "learning", "motivation"],
+      "emotionBreakdown": {
+        "joy": 45,
+        "calm": 25,
+        "stress": 15,
+        "sadness": 5,
+        "anxiety": 10
+      }
+    },
+    {
+      "id": "entry-6",
+      "date": "2024-01-10",
+      "emoji": "😤",
+      "title": "processing frustration",
+      "dominantEmotion": "stress",
+      "summary": "a challenging day at work. you vented about a difficult colleague situation and we explored healthy boundaries.",
+      "topics": ["work", "boundaries", "frustration"],
+      "emotionBreakdown": {
+        "joy": 5,
+        "calm": 15,
+        "stress": 45,
+        "sadness": 15,
+        "anxiety": 20
+      }
+    },
+    {
+      "id": "entry-7",
+      "date": "2024-01-09",
+      "emoji": "🌱",
+      "title": "small wins matter",
+      "dominantEmotion": "calm",
+      "summary": "you celebrated completing a small task you'd been avoiding. we talked about the power of momentum.",
+      "topics": ["productivity", "self-compassion", "progress"],
+      "emotionBreakdown": {
+        "joy": 25,
+        "calm": 40,
+        "stress": 15,
+        "sadness": 10,
+        "anxiety": 10
+      }
+    }
+  ]
+}

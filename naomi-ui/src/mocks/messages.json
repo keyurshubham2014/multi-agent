@@ -1,0 +1,64 @@
+{
+  "messages": [
+    {
+      "id": "msg-1",
+      "content": "hey there! how are you feeling today?",
+      "sender": "naomi",
+      "timestamp": "2024-01-15T09:00:00Z"
+    },
+    {
+      "id": "msg-2",
+      "content": "I've been feeling a bit overwhelmed with work lately. There's so much to do and I don't know where to start.",
+      "sender": "user",
+      "timestamp": "2024-01-15T09:01:00Z"
+    },
+    {
+      "id": "msg-3",
+      "content": "i hear you. that feeling of being overwhelmed can be really heavy. let's break this down together - what's the one thing that feels most urgent right now?",
+      "sender": "naomi",
+      "timestamp": "2024-01-15T09:01:30Z"
+    },
+    {
+      "id": "msg-4",
+      "content": "Probably the project deadline coming up next week. I haven't even started on the presentation yet.",
+      "sender": "user",
+      "timestamp": "2024-01-15T09:02:15Z"
+    },
+    {
+      "id": "msg-5",
+      "content": "okay, so the presentation is the priority. that's a great first step - just identifying what matters most. how about we think about what the presentation needs to include? sometimes just listing the pieces makes it feel more manageable.",
+      "sender": "naomi",
+      "timestamp": "2024-01-15T09:02:45Z"
+    },
+    {
+      "id": "msg-6",
+      "content": "That actually helps. I need to cover the quarterly results, our team's achievements, and the roadmap for next quarter.",
+      "sender": "user",
+      "timestamp": "2024-01-15T09:03:30Z"
+    },
+    {
+      "id": "msg-7",
+      "content": "look at that - you already have a clear structure! three main sections. that's totally doable. which part do you feel most confident about?",
+      "sender": "naomi",
+      "timestamp": "2024-01-15T09:04:00Z"
+    },
+    {
+      "id": "msg-8",
+      "content": "The team achievements for sure. I'm really proud of what we accomplished this quarter.",
+      "sender": "user",
+      "timestamp": "2024-01-15T09:04:30Z"
+    },
+    {
+      "id": "msg-9",
+      "content": "that pride is wonderful to hear! starting with the part you're most excited about can build momentum. maybe you could begin there and let that energy carry you into the other sections?",
+      "sender": "naomi",
+      "timestamp": "2024-01-15T09:05:00Z"
+    },
+    {
+      "id": "msg-10",
+      "content": "You're right. I think I was making this bigger in my head than it needs to be. Thanks for helping me see it more clearly.",
+      "sender": "user",
+      "timestamp": "2024-01-15T09:05:45Z"
+    }
+  ]
+}
